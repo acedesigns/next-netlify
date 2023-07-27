@@ -1,4 +1,3 @@
-import { NextApiRequest, NextApiResponse } from 'next'
 
 const DATA_SOURCE_URL = "https://swapi.dev/api/starships"
 
